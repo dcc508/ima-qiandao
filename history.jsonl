@@ -12,3 +12,4 @@
 {"date":"2026-11-18","error":"[错误] 刷新登录失败: code=41 msg=type:business, code:41, msg:登录过期，请重新登录, caused by type:business, code:110031, msg:token session expired"}
 {"date":"2026-11-19","error":"[错误] 刷新登录失败: code=41 msg=type:business, code:41, msg:登录过期，请重新登录, caused by type:business, code:110031, msg:token session expired"}
 {"date":"2026-11-20","error":"[错误] 刷新登录失败: code=41 msg=type:business, code:41, msg:登录过期，请重新登录, caused by type:business, code:110031, msg:token session expired"}
+{"date":"2026-11-21","error":"[错误] 刷新登录失败: code=41 msg=type:business, code:41, msg:登录过期，请重新登录, caused by type:business, code:110031, msg:token session expired"}
